@@ -5,6 +5,8 @@ Based on the paper: Freitas, J. D., Niranjan, M., Gee, A. H., & Doucet, A. (2000
 
 The purpose of this project is to compare particle filter to the standard back propogation algorightm in their abilities to train neural networks.
 
+A report on the methods and findings of this project is in file [report.pdf](./report.pdf)
+
 A video presentation of this project is on Youtube https://www.youtube.com/watch?v=9nCohdFoNCE
 
 [![YouTube video](http://img.youtube.com/vi/9nCohdFoNCE/0.jpg)](http://www.youtube.com/watch?v=9nCohdFoNCE)
